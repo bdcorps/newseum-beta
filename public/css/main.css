@@ -13,8 +13,8 @@ button {
 .news-album{position: relative;
     text-align: center;
     color: white;
-width:150px;
-height:150px;}
+width:175px;
+height:175px;}
 
     .news-album-overlay-content {
         position: absolute;
@@ -27,8 +27,8 @@ height:150px;}
 
 .news-album-overlay {
   
-    width: 150px;
-    height: 150px;
+    width: 175px;
+    height: 175px;
     
     background: 
       url(../images/overlay.png);
@@ -64,8 +64,8 @@ display: none;
 .left-float{float:left;}
 /* 
 .news-album {
-    height: 150px;
-    width: 150px;
+    height: 175px;
+    width: 175px;
     background-color: #321c4c;
 } */
 
@@ -137,7 +137,7 @@ display: none;
 
 .news-album-cover-container {
     position: relative;
-    width:150px;
+    width:175px;
   }
 
   .section-news-album-cover-container {

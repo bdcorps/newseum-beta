@@ -23,9 +23,10 @@ app.set('view engine', 'html');
 app.get('/', function (req, res) {
   res.render('main.ejs');
 });
-app.get('/index', function (req, res) {
-  res.render('index.ejs');
-});app.get('/sidebar', function (req, res) {
+app.get('/landingpage', function (req, res) {
+  res.render('landingpage.ejs');
+});
+app.get('/sidebar', function (req, res) {
   res.render('sidebar.ejs');
 });
 app.get('/app', function (req, res) {
