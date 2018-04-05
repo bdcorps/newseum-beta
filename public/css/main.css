@@ -138,6 +138,10 @@ display: none;
 .news-album-cover-container {
     position: relative;
     width:175px;
+    
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
   }
 
   .section-news-album-cover-container {
